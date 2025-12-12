@@ -1,2 +1,2 @@
-# firebase_realtime_example
-A Flutter project demonstrating how to write and read data from Firebase Realtime Database.
+# first_flutter_project
+This project is a responsive Flutter application that provides a structured and user-friendly profile setup experience. This app also helps users set up their profile easily and correctly. It guides them step by step, explains what information is needed, and shows the benefits of completing their profile. The design is simple, clear, and easy to use on phones, tablets, and computers.
